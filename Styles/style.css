@@ -107,7 +107,7 @@ header {
 }
 .view-more {
   text-align: center;
-  margin-top: 24px;
+  margin: 24px auto;
 }
 .view-more a {
   border: 1px solid aqua;
