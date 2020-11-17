@@ -68,7 +68,7 @@ body {
   width: 100%;
   min-height: 100vh;
   overflow: auto;
-  margin: auto;
+  /* margin: auto; */
 }
 header {
   padding: 10px 0;
@@ -769,6 +769,10 @@ footer {
   .copy__right,
   .footer__social {
     padding: 0;
+  }
+  .nav__item {
+    width: 90%;
+    font-size: 14px;
   }
 }
 
